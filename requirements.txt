@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+scipy
+torch
+torchaudio
+librosa
+soundfile
+audioread
+huggingface_hub
